@@ -1,2 +1,2 @@
-# prnt.sc-scrape
-prnt.sc scrape
+# prnt.sc-scraper
+prnt.sc scraper
